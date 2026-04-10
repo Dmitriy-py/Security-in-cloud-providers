@@ -56,7 +56,6 @@ resource "yandex_storage_bucket" "img_bucket" {
   }
 }
 
-# Загрузка объекта (картинки) в бакет
 resource "yandex_storage_object" "picture" {
   access_key = yandex_iam_service_account_static_access_key.sa_key.access_key
   secret_key = yandex_iam_service_account_static_access_key.sa_key.secret_key
