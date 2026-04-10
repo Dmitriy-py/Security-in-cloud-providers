@@ -107,13 +107,27 @@ resource "yandex_iam_service_account_static_access_key" "sa_key" {
 
 ### 1. Шифрование KMS
 
+---
+
 <img width="1920" height="1080" alt="Снимок экрана (3298)" src="https://github.com/user-attachments/assets/6122a0ea-e197-4559-9e04-4fbdc8649abe" />
+
+---
 
 ### 2. Работающий сайт с HTTPS
 
+---
+
+<img width="1920" height="1080" alt="Снимок экрана (3300)" src="https://github.com/user-attachments/assets/ba917f6d-c3cd-4916-9520-96eabe832e83" />
+
+---
+
 <img width="1920" height="1080" alt="Снимок экрана (3294)" src="https://github.com/user-attachments/assets/8a0c8dbc-eaaa-4af7-a73a-ca8142676b2f" />
 
+---
+
 <img width="1920" height="1080" alt="Снимок экрана (3295)" src="https://github.com/user-attachments/assets/8e318719-9a61-4888-9384-95fa9284c72e" />
+
+---
 
 <img width="1920" height="1080" alt="Снимок экрана (3297)" src="https://github.com/user-attachments/assets/c92b9dff-46c5-4a68-b71b-836e61bbf92f" />
 
