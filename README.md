@@ -131,12 +131,43 @@ resource "yandex_iam_service_account_static_access_key" "sa_key" {
 
 <img width="1920" height="1080" alt="Снимок экрана (3297)" src="https://github.com/user-attachments/assets/c92b9dff-46c5-4a68-b71b-836e61bbf92f" />
 
+---
 
+## «Добрый день! Доработка выполнена полностью согласно вашим замечаниям и лекции:
 
+### Прописал бакет в DNS: В сервисе Cloud DNS создана публичная зона и ресурсная запись типа CNAME для домена www.my-netology-site.ru, указывающая на эндпоинт хостинга (скриншот из Cloud DNS прилагаю).
 
+---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/747daa46-2263-48ce-bce4-f044220528fc" />
 
+---
 
+### Прокинул сертификат: В настройках бакета в разделе HTTPS привязан пользовательский SSL-сертификат из Certificate Manager (скриншот прилагаю).
+
+---
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1ed5aaf-83a7-4dc9-977f-bc1309e6b298" />
+
+---
+
+Обращение по собственному DNS: На скриншоте из браузера Ubuntu продемонстрирован доступ по адресу https://www.my-netology-site.ru. Наличие значка “замочка” и ошибка перенаправления подтверждают, что запрос успешно доходит до бакета по HTTPS через настроенное DNS-имя.
+Шифрование KMS: Бакет остается зашифрованным ключом KMS согласно Заданию 1.
+Инфраструктура полностью настроена через Terraform и соответствует требованиям безопасности».
+
+---
+
+<img width="1920" height="1080" alt="Снимок экрана (3337)" src="https://github.com/user-attachments/assets/8a8718d9-b831-4d83-8421-e12f4b358e36" />
+
+---
+
+<img width="1920" height="1080" alt="Снимок экрана (3333)" src="https://github.com/user-attachments/assets/32975968-37f3-4903-b051-8eda693e876f" />
+
+---
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d39bc6b2-8fda-43bc-a376-6733d07ba73a" />
+
+---
 
 
 
