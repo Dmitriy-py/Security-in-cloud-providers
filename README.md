@@ -155,6 +155,12 @@ resource "yandex_iam_service_account_static_access_key" "sa_key" {
 Шифрование KMS: Бакет остается зашифрованным ключом KMS согласно Заданию 1.
 Инфраструктура полностью настроена через Terraform и соответствует требованиям безопасности».
 
+
+---
+
+<img width="1920" height="1080" alt="Снимок экрана (3305)" src="https://github.com/user-attachments/assets/1825d138-4e1f-44e3-aa17-c37c57d21412" />
+
+
 ---
 
 <img width="1920" height="1080" alt="Снимок экрана (3337)" src="https://github.com/user-attachments/assets/8a8718d9-b831-4d83-8421-e12f4b358e36" />
